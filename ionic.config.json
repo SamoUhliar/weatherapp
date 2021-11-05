@@ -1,0 +1,7 @@
+{
+  "name": "weather-tutorial-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
